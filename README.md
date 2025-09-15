@@ -31,3 +31,30 @@ Built with **Streamlit**, **Hugging Face Transformers**, **LangChain**, and **FA
 ```bash
 git clone https://github.com/yourusername/ai-medical-chatbot.git
 cd ai-medical-chatbot
+
+
+python -m venv venv
+source venv/bin/activate   # For Linux/Mac
+venv\Scripts\activate      # For Windows
+
+pip install -r requirements.txt
+
+HUGGING_FACEHUB_API_TOKEN=your_token_here
+python create.py
+
+📌 Future Improvements
+
+Support for multiple document uploads
+
+Advanced ranking of search results
+
+Integration with medical knowledge bases
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+
+---
+
+👉 Do you want me to also generate a **short project description for GitHub** (the one-liner that appears under the repo name)?
