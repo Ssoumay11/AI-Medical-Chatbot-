@@ -53,8 +53,3 @@ Integration with medical knowledge bases
 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-
----
-
-👉 Do you want me to also generate a **short project description for GitHub** (the one-liner that appears under the repo name)?
